@@ -1,0 +1,67 @@
+127.0.0.1	localhost
+127.0.1.1	tkubuntu
+
+
+#阿里云服务器IP				
+#IP	机器码		地址	状态
+47.98.121.114	sh-011			
+47.98.125.161	gdsz-003 			
+47.98.124.219	sh-013			
+47.98.43.5	sh-012			
+47.98.125.78	nj-005			
+47.98.124.9	nj-006			
+118.31.15.239	gdsz-002			
+118.31.40.20	gdsz-001			
+47.98.59.94	nj-004			
+47.98.62.46	sh-010			
+47.98.36.72	sh-009			
+116.62.190.251	nj-003			
+47.96.182.5	un1			
+47.97.223.188	sh-008			
+47.97.215.6	nj-001			
+47.97.176.63	admin			
+47.97.179.31	un2			
+47.96.27.201	nj-002			
+47.96.184.10	un3			
+116.62.206.249	sh-007			
+120.55.58.40	sh-005			
+				
+				
+				
+
+
+
+120.55.58.40 alpbx
+101.37.33.46 alweb
+47.96.27.201 altest
+47.97.215.6 altest2
+116.62.206.249 sh007
+47.97.223.188 sh008
+101.132.45.66  simcloud
+
+47.98.36.72  bkpbx
+47.98.59.94  bkpbx2
+47.98.62.46  bkpbx3
+
+118.31.40.20 bkpbx4
+118.31.15.239 bkpbx5
+
+116.62.190.251 nj003
+
+47.98.121.114 nxpbx1
+
+#nameserver 192.168.1.1
+# The following lines are desirable for IPv6 capable hosts
+#::1     localhost ip6-localhost ip6-loopback
+#ff02::1 ip6-allnodes
+#ff02::2 ip6-allrouters
+#Google主页
+#203.208.46.146 www.google.com
+###这行是为了方便打开Android开发官网 现在好像不翻也可以打开
+#74.125.113.121 developer.android.com
+###更新的内容从以下地址下载
+#203.208.46.146 dl.google.com
+#203.208.46.146 dl-ssl.google.com
+#185.31.16.184 github.global.ssl.fastly.net
+#103.245.222.249 github.global.ssl.fastly.net
+#103.245.222.133 assets-cdn.github.com
